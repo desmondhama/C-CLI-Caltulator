@@ -1,9 +1,9 @@
 
-###C-CLI-Calculator
+### C-CLI-Calculator
 
 A simple command-line calculator written in C for performing basic arithmetic operations.
 
-##Features
+## Features
 
 Addition, Subtraction, Multiplication, and Division
 
@@ -12,15 +12,15 @@ Input validation for numbers
 Easy to use CLI interface
 
 
-#Getting Started
+# Getting Started
 
 To use the calculator, clone the repository and compile the C files.
 
-#Prerequisites
+# Prerequisites
 
 You need to have a C compiler (like GCC) installed on your system.
 
-#Installation
+# Installation
 
 1. Clone the repository:
 
@@ -38,7 +38,7 @@ gcc -o calculator main.c
 
 
 
-#Usage
+# Usage
 
 Once compiled, you can run the calculator by executing the following:
 
@@ -46,18 +46,18 @@ Once compiled, you can run the calculator by executing the following:
 
 Follow the on-screen prompts to enter numbers and select an operation.
 
-#Contributing
+# Contributing
 
 Feel free to fork the repository, make improvements, and submit pull requests. Contributions are always welcome!
 
-#License
+# License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 ---
 
-#Customizing:
+# Customizing:
 
 Replace yourusername in the git clone command with your actual GitHub username.
 
